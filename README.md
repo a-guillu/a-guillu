@@ -6,6 +6,7 @@ dedicating my time to learning what makes technology special from the inside so 
 - 🌱 I’m currently learning Full-Stack Web Development specializing in Js, HTML/CSS, and React.
 
 - 📫 How to reach me ...
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 
 <!---
 a-guillu/a-guillu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
