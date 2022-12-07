@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Alex Guillu</h1>
+<h1 align="center">Hi 👋 I'm Alex Guillu</h1>
 <h3 align="center">A passionate Full Stack Developer from Chicago</h3>
 <h4 align="center">Technology has been in my life for as long as I can remember and I have always enjoyed connecting people with it on a surface level. Now, I am
 dedicating my time to learning what makes technology special from the inside so I can leave my personal touch and inspire creativity in people.</h4>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-guillu" alt="a-guillu" /></a> </p>
 
 - 🌱 I’m currently learning **Full-Stack Web Development specializing in Js, HTML/CSS, and React.**
 
