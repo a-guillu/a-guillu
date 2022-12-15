@@ -7,7 +7,7 @@ dedicating my time to learning what makes technology special from the inside so 
 
 - 💬 Ask me about **All things Apple**
 
-- 📫 How to reach me **guillu115@gmail.com**
+- 📫 How to reach me: **guillu115@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
