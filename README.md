@@ -3,7 +3,7 @@
 <h4 align="center">Technology has been in my life for as long as I can remember and I have always enjoyed connecting people with it on a surface level. Now, I am
 dedicating my time to learning what makes technology special from the inside so I can leave my personal touch and inspire creativity in people.</h4>
 
-- 🌱 I’m currently learning **Full-Stack Web Development specializing in Js, HTML/CSS, and React.**
+- 🌱 I am a growing **Full-Stack Web Developer specializing in Js, HTML/CSS, and React.**
 
 - 💬 Ask me about **All things Apple**
 
